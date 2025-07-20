@@ -1,0 +1,15 @@
+
+---
+
+##  `requirements.txt` for Backend
+
+```txt
+fastapi
+uvicorn
+pymupdf
+pytesseract
+python-multipart
+transformers
+torch
+nltk
+spacy
